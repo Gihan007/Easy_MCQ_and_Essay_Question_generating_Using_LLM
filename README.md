@@ -1,3 +1,10 @@
+## Contributors
+
+This project was developed by:
+
+- **Gihan Lakmal** — LLM backend, AI and MCQ generation  
+- **Sandiru samarasekara** — Frontend and website development
+
 📝 AI-Powered Essay & MCQ Generator
 This is an AI-powered web application that allows users to generate essays based on a given topic and word count. It also supports PDF uploads for processing educational content. Built with a React frontend and a Flask backend using the DeepSeek model via OpenRouter API.
 
